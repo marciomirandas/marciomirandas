@@ -1,6 +1,5 @@
 ## Olá! Eu sou o Márcio Miranda!!
 
-- 🔭 Estou a procura do primeiro emprego como Desenvolvedor Backend
 - 🌱 Nesse momento estou estudando Django
 
 <div align="center">
